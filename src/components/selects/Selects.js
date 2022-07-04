@@ -52,12 +52,12 @@ function Selects() {
                 <SelectsImg bgImg={Gateway} text='Maharashtra'stext='Gateway Of India' />
                 <SelectsImg bgImg={DZOKOU} text='Manipur'stext='Dzukou Valley  is known for its natural environment, seasonal flowers and flora & fauna' />
                 <SelectsImg bgImg={Nohkalikai} text='Meghalaya' stext='Nohkalikai waterfalls The fourth highest waterfalls in the world' />
-                <SelectsImg bgImg={PHEK} text='Nagaland' stext='Phek is a hilly area rich in flora and fauna.The spell bounding hills, Shilloi lake is an important attraction.' />
-                <SelectsImg bgImg={JAGANATH} text='Odisha'stext='The Jagannath Temple is an important Hindu temple dedicated to Jagannath, a form of Vishnu' />
+                <SelectsImg bgImg={PHEK} text='Nagaland' stext='Phek is a hilly area rich in flora and fauna. ' />
+                <SelectsImg bgImg={JAGANATH} text='Odisha'stext='The Jagannath Temple is an  Hindu temple dedicated to Jagannath, a form of Vishnu' />
                 {/* <SelectsImg bgImg={CHD} text='Panjab' /> */}
                 <SelectsImg bgImg={rajsthan} text='Rajsthan' />
                 <SelectsImg bgImg={GANGTOK} text='Sikkim'stext=' Gangtok, the capital of Sikkim, is one of the most popular hill stations in India' />
-                <SelectsImg bgImg={Ooty} text='TamilNadu'stext='Ooty  is a popular hill station located in the Nilgiri Hills. It is popularly and lovingly called Queen of Hill Stations' />
+                <SelectsImg bgImg={Ooty} text='TamilNadu'stext='Ooty  is a popular hill station located in the Nilgiri Hills. It is popularly  called Queen of Hill Stations' />
                 <SelectsImg bgImg={BoraBora} text='Telangana' />
                 <SelectsImg bgImg={BoraBora} text='Tripura' />
                 <SelectsImg bgImg={LUCKNOW} text='Utter Pradesh' />
