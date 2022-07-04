@@ -24,7 +24,7 @@ function Navbar(){
               
               <li className="nav-item dropdown ">
                 <a className="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                  Travel-with whom
+                  Travel-with 
                 </a>
                 <ul className="dropdown-menu bg-secondary " aria-labelledby="navbarDropdown ">
                   <li><a className="dropdown-item" href="#">Friends</a></li>

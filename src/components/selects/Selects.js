@@ -27,8 +27,10 @@ import LADAKH from '../../Picture/LADAKH.jpg';
 import KOCHI from '../../Picture/KOCHI.jpg';
 import ISLANDS from '../../Picture/ISLANDS.jpg';
 import ANDAMAN from '../../Picture/ANDAMAN.jpg';
-import Ooty from '../../Picture/Ooty.jpg';
+import TAMILOOTY from '../../Picture/TAMILOOTY.jpg';
 import JAGANATH from '../../Picture/JAGANATH.jpg';
+import BHADRACHALAM from '../../Picture/BHADRACHALAM.jpg';
+import NEERMAHAL from '../../Picture/NEERMAHAL.jpg';
 
  import SelectsImg from '../SelectsImg/SelectsImg'
 
@@ -55,19 +57,19 @@ function Selects() {
                 <SelectsImg bgImg={PHEK} text='Nagaland' stext='Phek is a hilly area rich in flora and fauna. ' />
                 <SelectsImg bgImg={JAGANATH} text='Odisha'stext='The Jagannath Temple is an  Hindu temple dedicated to Jagannath, a form of Vishnu' />
                 {/* <SelectsImg bgImg={CHD} text='Panjab' /> */}
-                <SelectsImg bgImg={rajsthan} text='Rajsthan' />
+                <SelectsImg bgImg={rajsthan} text='Rajsthan'stext='The main attraction for travellers is the vast Thar Desert' />
                 <SelectsImg bgImg={GANGTOK} text='Sikkim'stext=' Gangtok, the capital of Sikkim, is one of the most popular hill stations in India' />
-                <SelectsImg bgImg={Ooty} text='TamilNadu'stext='Ooty  is a popular hill station located in the Nilgiri Hills. It is popularly  called Queen of Hill Stations' />
-                <SelectsImg bgImg={BoraBora} text='Telangana' />
-                <SelectsImg bgImg={BoraBora} text='Tripura' />
-                <SelectsImg bgImg={LUCKNOW} text='Utter Pradesh' />
-                <SelectsImg bgImg={MUSSOORIE} text='Uttarakhand(MUSSOORIE)' />
+                <SelectsImg bgImg={TAMILOOTY} text='TamilNadu'stext='Ooty  is a popular hill station located in the Nilgiri Hills. It is popularly  called Queen of Hill Stations' />
+                <SelectsImg bgImg={BHADRACHALAM} text='Telangana'stext='Sri Raja Rajeswara Temple is the famous Hindu temples in Telangana, dedicated to Lord Shiva.' />
+                <SelectsImg bgImg={NEERMAHAL} text='Tripura'stext='Neermahal is a former royal palace built by Maharaja of Tripura Kingdom Bir Bikram Kishore ' />
+                <SelectsImg bgImg={LUCKNOW} text='Utter Pradesh' stext=' Lucknow, situated on the banks of river Gomti' />
+                <SelectsImg bgImg={MUSSOORIE} text='Uttarakhand(Mussoorie)' stext='Mussoorie has long been known as Queen of the Hills' />
                 <SelectsImg bgImg={KOLKATA} text='West Bengal' stext = 'Howrah Bridge'/>
                 <SelectsImg bgImg={BoraBora} text='Dadra and Nagar Haveli' />
                 <SelectsImg bgImg={vaishnodevi} text='Jammu and Kashmir' stext='Mata vaishno Devi Temple' />
-                <SelectsImg bgImg={LADAKH} text='Ladakh' />
-                <SelectsImg bgImg={ISLANDS} text='Lakshadweep' />
-                <SelectsImg bgImg={ANDAMAN} text='Andaman and Nicobar' />
+                <SelectsImg bgImg={LADAKH} text='Ladakh' stext='Ladakh is a region administered by India as a union territory'/>
+                <SelectsImg bgImg={ISLANDS} text='Lakshadweep' stext='Lakshadweep also known as Laccadives is a union territory of India' />
+                <SelectsImg bgImg={ANDAMAN} text='Andaman and Nicobar'stext='The Andaman Islands are an Indian archipelago in the Bay of Bengal.' />
                 
 
 
