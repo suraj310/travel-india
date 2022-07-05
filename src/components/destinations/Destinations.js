@@ -13,7 +13,7 @@ function Destinations() {
         <div name='destinations' className='destinations'>
             <div className="container">
                 <h1>All-Inclusive Tourists Places</h1>
-                <p>On the India's Best Tourists Places</p>
+                <p> India's Best Tourists Places</p>
                 <div className="img-container">
                     <img className='span-3 image-grid-row-2' src={VARANASHI} alt="/" text='Ganges Ghat'/>
                       {/* <img src={HAWA} alt="/"/> */}
