@@ -6,7 +6,6 @@ import Home from './components/Home';
 import About from './components/About';
 import Article from './components/Article';
 import Destinations from './components/destinations/Destinations';
-
 import Selects from './components/selects/Selects';
 import SelectsImg from './components/SelectsImg/SelectsImg';
 import Footer from './components/footer/Footer';
