@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/travel-india/static/css/main.11fd7870.css",
-    "main.js": "/travel-india/static/js/main.1a8399eb.js",
+    "main.css": "/travel-india/static/css/main.86873a11.css",
+    "main.js": "/travel-india/static/js/main.7332dbdd.js",
     "static/media/tajmahal.jpg": "/travel-india/static/media/tajmahal.a187b17c5f8c911e422d.jpg",
     "static/media/golden temple.jpg": "/travel-india/static/media/golden temple.10eb27c2c07f9647f46f.jpg",
     "static/media/india gate.jpg": "/travel-india/static/media/india gate.a2bb0c5f8bbd6d580f8c.jpg",
@@ -42,11 +42,11 @@
     "static/media/KOCHI.jpg": "/travel-india/static/media/KOCHI.07441b9cdee0d2a6380e.jpg",
     "static/media/PANIPAT.jpg": "/travel-india/static/media/PANIPAT.30b08e04e3621a1e535c.jpg",
     "index.html": "/travel-india/index.html",
-    "main.11fd7870.css.map": "/travel-india/static/css/main.11fd7870.css.map",
-    "main.1a8399eb.js.map": "/travel-india/static/js/main.1a8399eb.js.map"
+    "main.86873a11.css.map": "/travel-india/static/css/main.86873a11.css.map",
+    "main.7332dbdd.js.map": "/travel-india/static/js/main.7332dbdd.js.map"
   },
   "entrypoints": [
-    "static/css/main.11fd7870.css",
-    "static/js/main.1a8399eb.js"
+    "static/css/main.86873a11.css",
+    "static/js/main.7332dbdd.js"
   ]
 }
