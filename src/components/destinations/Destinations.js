@@ -16,7 +16,7 @@ function Destinations() {
                 <p> India's Best Tourists Places</p>
                 <div className="img-container">
                     <img className='span-3 image-grid-row-2' src={VARANASHI} alt="/" text='Ganges Ghat'/>
-                      {/* <img src={HAWA} alt="/"/> */}
+                      
                     
                     <SelectsImg  bgImg={KEDAR}  stext='Kedarnath Temple' />
                     <SelectsImg bgImg={HAWA}  stext='Hawa Mahal,Jaipur' />
